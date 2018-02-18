@@ -1,5 +1,5 @@
 {  
-   "name":"phpo2/test",
+   "name":"phpo2/framework/test",
    "description":"PHPO2 http request response client",
    "keywords":[  
       "http",
